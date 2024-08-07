@@ -15,6 +15,11 @@ $$Alternation\ percentage=\frac{Spontaneous\ Alternations}{Total\ Possible\ Tria
 - Input: number of samples to calculate, records (in string).   
 - Calculations: number of triads, whether the triad is spontaneous alternation or not.   
 - Output: number of Total Possible Triads, number of Spontaneous Alternations, Alternation percentage.
+## Possible upgrades
+I do not have plans to upgrade yet.   
+- Exclusion of extreamly long / short trial
+- Sample naming
+- Stastical calculation
 ## Acknowledgement
 This program was thought, and created while participating Pre-URP 2024, in `LAB OF NEURONAL CELL DEATH, DGIST`.   
 I deeply thank Ms. Ha and Prof. Yu for letting me have wonderful, scholar experiences during the camp.
